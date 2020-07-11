@@ -1,3 +1,7 @@
+const fs = require('fs');
+const inquirer = require('inquirer');
+const gm = require("./utils/generateMarkdown.js");
+
 const questions = [
     {
         "message": "What is your github id?",
@@ -55,7 +59,7 @@ const questions = [
 ];
 
 function writeToFile(fileName, data) {
-    
+    fs.writeFileSync(fileName, data);
 }
 
 function init() {
