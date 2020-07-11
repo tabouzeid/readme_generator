@@ -39,8 +39,8 @@ When contributing to this repository, please first discuss the change you wish t
 # Tests
 ${tests}
 # Questions
-Please send any questions you may have to the repo owner.
 [![Repo Owner Image](https://avatars.githubusercontent.com/${username}?s=100)](mailto:${email})
+Please send any questions you may have to the repo owner.
 `;
 }
 

@@ -23,7 +23,7 @@ When contributing to this repository, please first discuss the change you wish t
 # Tests
 There are no tests
 # Questions
-Please send any questions you may have to the repo owner.
 [![Repo Owner Image](https://avatars.githubusercontent.com/tabouzeid?s=100)](mailto:tabouzeid@gmail.com)
+Please send any questions you may have to the repo owner.
 
 ![Running App Gif](./assets/img/app.gif)
