@@ -1,9 +1,10 @@
+
 [![Contributors](https://img.shields.io/github/contributors/tabouzeid/readme_generator)](https://github.com/tabouzeid/readme_generator/graphs/contributors)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Readme Generator
 # Description
-This tool autogenerates a README file based off of the answers provided by the user
+This tool allows you to generate a README  file template using the  answers to questions in the terminal
 # Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -24,3 +25,5 @@ There are no tests
 # Questions
 Please send any questions you may have to the repo owner.
 [![Repo Owner Image](https://avatars.githubusercontent.com/tabouzeid?s=100)](mailto:tabouzeid@gmail.com)
+
+![Running App Gif](./assets/img/app.gif)
