@@ -25,5 +25,3 @@ There are no tests
 # Questions
 [![Repo Owner Image](https://avatars.githubusercontent.com/tabouzeid?s=100)](mailto:tabouzeid@gmail.com)
 Please send any questions you may have to the repo owner.
-
-![Running App Gif](./assets/img/app.gif)
